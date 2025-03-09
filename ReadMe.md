@@ -36,10 +36,11 @@ Aşağıda uygulamanın arayüzüne dair bazı ekran görüntüleri bulunmaktad�
 ## Kurulum
 1. Kotlin ve gerekli bağımlılıkları yükleyin.
    ```bash
-   git clone https://github.com/kullanici/proje-adi.git
-   git clone https://github.com/kullanici/proje-adi.git
-   
+   ./gradlew build
+   ./gradlew run
+
+
 
 2. Projeyi yerel ortamınıza kopyalayın:
    ```bash
-   git clone https://github.com/kullanici/proje-adi.git
+   git clone https://github.com/1omerozturk/Pomemetre.git
